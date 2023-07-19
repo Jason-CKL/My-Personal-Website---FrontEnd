@@ -1,1 +1,2 @@
-# My-Personal-Website---FrontEnd
+# This is my first project - personal website (Front-End)
+# 
